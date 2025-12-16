@@ -36,7 +36,7 @@ Welcome to my GitHub Page. I am <b>Harsh Kolarkar</b>, a Final Year B.Tech stude
 ### 🛠️ Tech Stack & Tools
 
 > Tools and technologies that I have worked with and am interested in.
-
+<div align="center">
 <table>
   <tr>
     <td align="center" width="96">
@@ -131,7 +131,7 @@ Welcome to my GitHub Page. I am <b>Harsh Kolarkar</b>, a Final Year B.Tech stude
     </td>
   </tr>
 </table>
-
+</div>
 ---
 
 ### 📊 GitHub Stats
