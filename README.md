@@ -132,21 +132,3 @@ Welcome to my GitHub Page. I am <b>Harsh Kolarkar</b>, a Final Year B.Tech stude
   </tr>
 </table>
 </div>
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Archnightt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archnightt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-
-</div>
-
