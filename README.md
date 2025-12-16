@@ -1,6 +1,6 @@
+<img width="800" height="200" alt="Banner" src="https://github.com/user-attachments/assets/a115875c-9bd2-45f3-9276-7a83270d4f27" />
 <div align="justify">
-<img width="800" height="200" alt="Banner" src="https://github.com/user-attachments/assets/2d9b51d1-474b-4276-af68-961ea5d84479" />
-</div>
+
 
 <div align="center">
 <a href="https://www.linkedin.com/in/harshk37/">
