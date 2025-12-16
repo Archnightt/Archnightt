@@ -150,14 +150,3 @@ Welcome to my GitHub Page. I am <b>Harsh Kolarkar</b>, a Final Year B.Tech stude
 
 </div>
 
----
-
-### 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Archnightt&bg_color=1a1b27&color=70a5fd&line=38bdae&point=FFFFFF&area=true&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Archnightt&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</div>
