@@ -95,8 +95,8 @@ Welcome to my GitHub Page. I am <b>Harsh Kolarkar</b>, a Final Year B.Tech stude
       <br>Firebase
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
     </td>
   </tr>
 
