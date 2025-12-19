@@ -1,125 +1,49 @@
-<div align="center">
-<img width="800" height="200" alt="Banner" src="https://github.com/user-attachments/assets/a115875c-9bd2-45f3-9276-7a83270d4f27" />
-</div>
+# Hey there! 👋
+
+I'm **Harsh**, a developer and final-year CS student at **VIT Pune**.
+
+I design and build whatever I can imagine.
+
+I recently wrapped up my software engineering internship at a startup based in Bangalore, where I focused on building scalable web solutions.
+
+My main tech stack is **react, tailwind, django**. My favorite programming languages are **java and python**.
+
+---
+
+**Fun Facts:**
+* 🍵 team **chai** over coffee, any day.
+* 🏎️ probably re-watching **F1** highlights right now.
+* 🎬 i'm a total **movie buff**.
+* ⚽️ i love **football**
 
 ---
 
 <div align="center">
-<a href="https://www.linkedin.com/in/harshk37/">
-<img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/notharsh_37">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/Archnightt">
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:harsh.kolarkar22@vit.edu">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+  <a href="https://www.linkedin.com/in/harshk37/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+<a href="https://x.com/notharsh_37" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-white?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzFEQTFGMiIgZD0iTTIzLjk1MyA0LjU3YTEwIDEwIDAgMDEtMi44MjUuNzc1IDQuOTU4IDQuOTU4IDAgMDAyLjE2My0yLjcyM2MtLjk1MS41NTUtMi4wMDUuOTU5LTMuMTI3IDEuMTg0YTQuOTIgNC45MiAwIDAwLTguMzg0IDQuNDgyQzcuNjkgOC4wOTUgNC4wNjcgNi4xMyAxLjY0IDMuMTYyYTQuODIyIDQuODIyIDAgMDAxLjUyMyA2LjU3NCA0LjkwMyA0LjkwMyAwIDAxLTIuMjI5LS42MTZjLS4wNTQgMi4yODEgMS41ODEgNC40MTUgMy45NDkgNC44OWE0LjkzNSA0LjkzNSAwIDAxLTIuMjI0LjA4NCA0LjkyOCA0LjkyOCAwIDAwNC42IDMuNDE0IDkuODY3IDkuODY3IDAgMDEtNi4xMDIgMi4xMDVjLS4zOSAwLS43NzktLjAyMy0xLjE3LS4wNjdhMTMuOTk1IDEzLjk5NSAwIDAwNy41NTcgMi4yMDljOS4wNTMgMCAxNC4wMDEtNy40OTYgMTQuMDAxLTEzLjk4NiAwLS4yMSAwLS40Mi0uMDE1LS42M0E5LjkzNSA5LjkzNSAwIDAwMjQgNC41OXoiLz48L3N2Zz4=" target="_blank" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/Archnightt">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:harsh.kolarkar22@vit.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
-
-<br>
-
-<p align="justify">
-Welcome to my GitHub Page. I am <b>Harsh Kolarkar</b>, a Final Year B.Tech student and a Software Developer Intern. When I'm not watching Formula 1 or movies, I enjoy working on Open Source projects and building software.
-</p>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-> Tools and technologies that I have worked with and am interested in.
+> Tools and technologies that I have worked with.
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
-      <br>Android Studio
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>REST API
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,tailwind,python,django,c,java,spring,figma,androidstudio,mysql,mongodb,redis,firebase,git,bash,linux,docker,nginx&theme=dark&perline=10"
+  style="width:80%;"/>
+  </a>
 </div>
