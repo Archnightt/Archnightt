@@ -6,7 +6,7 @@ I design and build whatever I can imagine.
 
 I recently wrapped up my software engineering internship at a startup based in Bangalore, where I focused on building scalable web solutions.
 
-My main tech stack is **react, tailwind, django**. My favorite programming languages are **java and python**.
+My main tech stack is **react, tailwind, django**. My main programming languages are **java and python**.
 
 ---
 
