@@ -10,14 +10,6 @@ My main tech stack is **react, tailwind, django**. My main programming languages
 
 ---
 
-**Fun Facts:**
-* 🍵 team **chai** over coffee, any day.
-* 🏎️ probably re-watching **F1** highlights right now.
-* 🎬 i'm a total **movie buff**.
-* ⚽️ i love **football**
-
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/harshk37/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
