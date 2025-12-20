@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Harsh**, a developer and final-year CS student at **VIT Pune**.
+I'm **Harsh**, a developer and final-year student at **VIT Pune**.
 
 I design and build whatever I can imagine.
 
