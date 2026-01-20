@@ -23,7 +23,7 @@ My main tech stack is **react, tailwind, django**. My main programming languages
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:harsh.kolarkar22@vit.edu">
+  <a href="mailto:kolarkar.harsh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
