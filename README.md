@@ -35,7 +35,7 @@ My main tech stack is **react, tailwind, django, next**. My main programming lan
 > Tools and technologies that I have worked with.
 <div align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,nextjs,tailwind,python,django,java,spring,redis,docker&theme=dark"
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,nextjs,postgres,python,django,java,spring,redis,docker&theme=dark"
   style="width:85%;"/>
   </a>
 </div>
