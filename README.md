@@ -1,12 +1,12 @@
-# Hey there! 👋
+# hey there! 👋
 
-I'm **Harsh**, a developer and final-year student at **VIT Pune**.
+i'm **harsh**, a full stack software engineer and a recent graduate from **VIT pune**.
 
-I design and build whatever I can imagine.
+i build end-to-end digital products that combine thoughtful design, modern engineering, and AI to transform ideas into polished web experiences.
 
-I recently wrapped up my software engineering internship at a startup based in Bangalore, where I focused on building scalable web solutions.
+recently, i completed a software engineering internship at a bangalore-based saas startup, where i worked across the stack building production features, optimizing backend performance, and modernizing frontend architecture.
 
-My main tech stack is **react, tailwind, django, next**. My main programming languages are **java and python**.
+lately, i've been building projects ranging from ai-powered financial dashboards to distributed storage systems while exploring system design and scalable backend engineering.
 
 ---
 
