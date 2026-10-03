@@ -4,9 +4,9 @@ i'm **harsh**, a full stack software engineer and a recent graduate from **VIT p
 
 i build end-to-end digital products that combine thoughtful design, modern engineering, and AI to transform ideas into polished web experiences.
 
-recently, i completed a software engineering internship at a bangalore-based saas startup, where i worked across the stack building production features, optimizing backend performance, and modernizing frontend architecture.
+i have experience working as a full-stack engineer at a B2C startup, where i worked across the stack building production features, optimizing backend performance, and modernizing frontend architecture.
 
-lately, i've been building projects ranging from ai-powered financial dashboards to distributed storage systems while exploring system design and scalable backend engineering.
+currently exploring freelance opportunities and product-focused companies where i can work on meaningful projects, grow as an engineer, and sharpen my skills.
 
 ---
 
